@@ -16,17 +16,17 @@ export function HireUs() {
             target="_blank"
             className={styles.hireUs}
             rel="noreferrer"
-            href="https://www.leniolabs.com/services/"
+            href=""
           >
-            Crafted with <span>♥</span> by Leniolabs_
+           
           </a>
           <a
             target="_blank"
             className={styles.hireUsButton}
             rel="noreferrer"
-            href="https://www.leniolabs.com/services/"
+            href=""
           >
-            Hire our front end team!
+        
           </a>
         </div>
       </div>
